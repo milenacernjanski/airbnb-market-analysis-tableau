@@ -1,6 +1,6 @@
 # Airbnb Market Analysis – Tableau Dashboard
 
-![Dashboard Preview](tableu dashboard.png)
+![Dashboard Preview](tableu-dashboard.png)
 
 ## Project Overview
 This project analyzes Airbnb listings to help potential guests or investors understand pricing, location, and property characteristics before choosing an area to stay in. The analysis is built in Tableau using cleaned and joined Airbnb datasets, with a focus on 2016 data only.
@@ -90,4 +90,5 @@ It helps users:
 ---
 
 **Created by:** Milena Cernjanski
+
 
